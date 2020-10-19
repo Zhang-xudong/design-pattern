@@ -1,2 +1,4 @@
-# design-pattern
-design-pattern
+
+
+关于设计模式的一些总结，内容来自《大话设计模式》等书籍 。
+
